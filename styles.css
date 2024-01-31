@@ -1,0 +1,42 @@
+.titulo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:red;
+    text-align: center;
+    font-size: 35px;
+    background-color: #545;
+    margin-left: 13cm;
+    margin-right: 13cm;
+    /*border: 70px;*/
+    /*bottom: 70px;*/
+}
+.parrafo{
+    font-size: 20px;
+    color: #545
+}
+.lblNombre{
+    color:darkolivegreen;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    text-align: left;
+    margin:5px;
+    display: inline;
+}
+.btnNombre{
+    display: inline;
+}
+#mensaje{
+    color:darkolivegreen;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    text-align: center;
+}
+#list-redes{
+    list-style-type: none;
+
+}
+.item{
+    float: left;
+    width: 2cm;
+    background-color: #151515;
+
+}
